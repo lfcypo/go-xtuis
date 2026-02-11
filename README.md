@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-go get -u github.com/lfcypo/go-xtuis
+go get -u github.com/lfcypo/go-xtuis@latest
 ```
 
 ## 使用
