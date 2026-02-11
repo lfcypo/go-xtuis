@@ -1,6 +1,6 @@
 # go-xtuis
 
-[虾推啥](https://xtuis.cn/) 的非官方 Go SDK
+适用于[虾推啥](https://xtuis.cn/)的消息推送 Go SDK
 
 ## 安装
 
