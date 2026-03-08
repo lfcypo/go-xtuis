@@ -2,7 +2,7 @@
 
 适用于[虾推啥](https://xtuis.cn/)的消息推送 Go SDK
 
-## 安装
+## 获取
 
 ```bash
 go get -u github.com/lfcypo/go-xtuis@latest
